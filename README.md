@@ -1,6 +1,6 @@
 
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'M MAHER 👋<𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'M MAHER  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
@@ -9,7 +9,7 @@
 </div>
 
 
-Happy Coding! 😊
+
 
 <div align="center">
 
@@ -26,8 +26,7 @@ Happy Coding! 😊
 </div>
 
 
-⭐ From [ABSphreak](https://github.com/ABSphreak)
-**maherr404/maherr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
